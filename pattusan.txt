@@ -1,5 +1,14 @@
+#include<stdio.h>
 
+int main(void){
 
-
-
-        Pattuaaaaaan
+	printf("o-o、o-o、o-o、o-o、o-o、o-o、");
+	printf("o-o、o-o、o-o、o-o、o-o、o-o、");
+	printf("o-o、o-o、o-o、o-o、o-o、o-o、\n");
+	printf("       Pattuaaaaaan\n");
+	printf("o-o、o-o、o-o、o-o、o-o、o-o、");
+	printf("o-o、o-o、o-o、o-o、o-o、o-o、");
+	printf("o-o、o-o、o-o、o-o、o-o、o-o、");
+	
+	return 0;
+}
